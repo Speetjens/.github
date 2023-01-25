@@ -1,4 +1,4 @@
-![Speetjens.](https://i.imgur.com/8gprL6g.jpeg)
+![Speetjens.](https://i.imgur.com/tBQOqUS.jpeg)
 ## Who we are
 Speetjens is a leading holding group in the hosting and gaming industry, with a portfolio of companies that cater to the diverse needs of customers. One of our flagship companies is Cubes Hosting, which offers a wide range of hosting services such as web hosting, cloud hosting, and game servers for popular games like Minecraft and GTA V. Our web hosting services provide customers with reliable and efficient hosting solutions that can handle high traffic websites, while our cloud hosting services offer scalable and flexible options for businesses of all sizes.
 
