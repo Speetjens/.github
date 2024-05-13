@@ -6,7 +6,7 @@ In addition to web and cloud hosting, Cubes Hosting also offers virtual private 
 
 Another one of our companies, Minecraft Hosting, specializes in offering Minecraft hosting on both Bedrock and Java edition with the GeyserMC packet layer. Our team of experts is dedicated to providing customers with the best possible Minecraft hosting experience. We understand the unique needs of Minecraft players and our servers are optimized for performance and stability. We also offer a wide range of customization options to allow players to personalize their servers to their liking.
 
-Lastly, The Reforged Time Minecraft network is a Minecraft minigames network with over 10,000 players, it offers a variety of games like survival games, castle kings, and space wars. Our network is designed to provide an enjoyable and immersive gaming experience for all players. We have a team of dedicated developers who work tirelessly to ensure that our games are always up-to-date and bug-free.
+Lastly, Zon op het Balkon is a dutch balcony solar retailer and installer that prouds itself at selling an unique system to place regular solar panels on a Balcony with direct plug-play capabilities thanks to the use of micro-converters.
 
 At Speetjens, we pride ourselves on providing our customers with the best possible service. Our team of experts is always on hand to assist with any queries or problems that may arise. Whether you're looking for web hosting, cloud hosting, game servers, or Minecraft hosting, we have the right solution for you.
 
