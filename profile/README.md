@@ -1,4 +1,4 @@
-![Speetjens.]([https://i.imgur.com/tBQOqUS.jpeg](https://i.imgur.com/wyhOQUT.jpeg))
+![Speetjens.]([https://i.imgur.com/wyhOQUT.jpeg](https://speetjens.net))
 
 
 ## Wij zijn speetjens!
