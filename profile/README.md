@@ -1,4 +1,4 @@
-![Speetjens.]([https://i.imgur.com/wyhOQUT.jpeg](https://speetjens.net))
+[![Speetjens Media](https://i.imgur.com/wyhOQUT.jpeg 'Speetjens Media')](https://codecademy.com)
 
 
 ## Wij zijn speetjens!
