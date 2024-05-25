@@ -1,16 +1,19 @@
-![Speetjens.](https://i.imgur.com/tBQOqUS.jpeg)
-## Who we are
-Speetjens is a leading holding group in the hosting and gaming industry, with a portfolio of companies that cater to the diverse needs of customers. One of our flagship companies is Cubes Hosting, which offers a wide range of hosting services such as web hosting, cloud hosting, and game servers for popular games like Minecraft and GTA V. Our web hosting services provide customers with reliable and efficient hosting solutions that can handle high traffic websites, while our cloud hosting services offer scalable and flexible options for businesses of all sizes.
+![Speetjens.]([https://i.imgur.com/tBQOqUS.jpeg](https://i.imgur.com/wyhOQUT.jpeg))
 
-In addition to web and cloud hosting, Cubes Hosting also offers virtual private servers, Discord bots, and game servers. Our game servers are optimized for performance, and we offer a wide range of games including Minecraft and GTA V. Our servers are equipped with the latest hardware and software, ensuring that our customers have a smooth and enjoyable gaming experience.
 
-Another one of our companies, Minecraft Hosting, specializes in offering Minecraft hosting on both Bedrock and Java edition with the GeyserMC packet layer. Our team of experts is dedicated to providing customers with the best possible Minecraft hosting experience. We understand the unique needs of Minecraft players and our servers are optimized for performance and stability. We also offer a wide range of customization options to allow players to personalize their servers to their liking.
+## Wij zijn speetjens!
 
-Lastly, Zon op het Balkon is a dutch balcony solar retailer and installer that prouds itself at selling an unique system to place regular solar panels on a Balcony with direct plug-play capabilities thanks to the use of micro-converters.
+Uw online ambities waarmaken met innovatieve en gebruiksvriendelijke oplossingen.
 
-At Speetjens, we pride ourselves on providing our customers with the best possible service. Our team of experts is always on hand to assist with any queries or problems that may arise. Whether you're looking for web hosting, cloud hosting, game servers, or Minecraft hosting, we have the right solution for you.
+- Website ontwikkeling
+- Webapp ontwikkeling
+- App ontwikkeling
+- Cloudoplossingen
+- Drone opnames
 
-In conclusion, Speetjens is a leading holding group in the hosting and gaming industry, with a wide range of services that cater to the diverse needs of customers. We pride ourselves on providing our customers with the best possible service, and we are always available to offer support and guidance. We are constantly looking for ways to improve our services, and we invest heavily in research and development to ensure that our products and services are always on the cutting edge of technology. Whether you're looking for web hosting, cloud hosting, game servers, Minecraft hosting or other services, we have the right solution for you.
+Ga voor meer informatie naar onze website [Speetjens](https://speetjens.net).
 
-## Got you interested?
-Did we get you interested in working with Speetjens? Feel free to reach out to hello@speetjens.net!
+
+
+
+
